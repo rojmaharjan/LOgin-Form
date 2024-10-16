@@ -1,0 +1,65 @@
+{
+  "user": [
+    {
+      "id": "751c",
+      "name": "Nikesh Dangol",
+      "gender": "Male",
+      "address": "lele",
+      "age": "21",
+      "email": "pop@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "752c",
+      "name": "Nikesh",
+      "gender": "Male",
+      "address": "lele",
+      "age": "21",
+      "email": "nikesh@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "52a6",
+      "name": "admin",
+      "gender": "admin",
+      "address": "lele",
+      "age": "21",
+      "email": "admin@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "a4a7",
+      "name": "ramesh",
+      "gender": "male",
+      "address": "chapagaun",
+      "age": "21",
+      "email": "ramesh@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "21fd",
+      "name": "a",
+      "gender": "asd",
+      "address": "asd",
+      "age": "sdas",
+      "email": "gsdfgsd",
+      "password": "sdfgsdfg"
+    }
+  ],
+  "productlist": [
+    {
+      "id": "1",
+      "Productname": "Lenovo Yoga",
+      "price": "$100",
+      "description": "Best Laptop",
+      "image": "laptop1.jpg"
+    },
+    {
+      "id": "968f",
+      "Productname": "Laptop2",
+      "image": "laptop2.jpg",
+      "description": "asdfasdf",
+      "price": "adfasdfasd"
+    }
+  ]
+}

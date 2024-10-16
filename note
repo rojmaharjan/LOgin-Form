@@ -1,0 +1,6 @@
+npm i axios
+npm i react-router-dom
+npm i -g json-server
+json-server --watch db.json --port 3031
+
+npm i react-bootstrap
